@@ -3,7 +3,7 @@
 ## Filmweb scraper prepared by Aleksander Partyga and Adam Dudek
 #
 ### Instruction for running „SCRAPY” scraper
-1. Open bash in flder where fou want to create scrapy project 
+1. Open bash in folder where you want to create scrapy project 
 2. Run there bash 
 3. Install scrapy 
 4. Create screapy project by typing "scrapy startptoject filmweb_spider02"
