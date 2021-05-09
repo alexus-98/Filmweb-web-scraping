@@ -16,5 +16,4 @@
 ### Instruction for running Selenium scraper
 1.  Download file filmweb_selenium.py from our hithub repository
 2.  Run the code
-9.	To receive output file in csv format uncomment the 10th and 44th and in 10th line change the path
-10.	 Enjoy the results
+3.	 Enjoy the results
